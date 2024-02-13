@@ -1,1 +1,1 @@
-# situate-AI-guidebook
+# Situate AI Guidebook
